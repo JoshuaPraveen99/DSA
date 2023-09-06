@@ -40,14 +40,16 @@ public class arrays {
 
         //Analyzing mutable behaviour of arrays
         //Here if we change the value of arr(copy of num array), the value in num array is also changed.
-        int[] num= {1,2,3,4,5};
+/*        int[] num= {1,2,3,4,5};
         int[]arr=num;
         System.out.println("Before modifying arr");
         System.out.println(Arrays.toString(num));
         arr[0]=99;
         System.out.println("After modifying arr");
         System.out.println(Arrays.toString(arr));
-        System.out.println(Arrays.toString(num));
+        System.out.println(Arrays.toString(num));*/
+
+        //Multidimensional Array
 
 
     }
